@@ -6,6 +6,7 @@ body {
        .Marnie {
       font-size: 100%;
       color: green;
+      outline:;
       background-color: lightblue;
       font-family: Arial;
       border: 5px dotted white;
